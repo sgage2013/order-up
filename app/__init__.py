@@ -12,4 +12,4 @@ db.init_app(app)
 
 
 
-db = SQLAlchemy(app)
+# db = SQLAlchemy(app);
